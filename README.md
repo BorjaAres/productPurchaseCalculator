@@ -4,7 +4,7 @@ This program calculates the total value of a product purchase based on user inpu
 
 ## How to Use
 
-1. Open the program in a JavaScript environment.
+1. Open the program in a JavaScript environment or follow this link: https://productpurchasecalculator.netlify.app/
 2. Enter the product name.
 3. Enter the product price.
 4. Enter the quantity of the product.
